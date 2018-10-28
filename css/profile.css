@@ -1,0 +1,44 @@
+body {
+    line-height: 1.42;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    color: #333333;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    min-width: 320px;
+}
+
+.main-nav {
+    font-weight: lighter;
+    margin-bottom: 50px;
+}
+
+ol.breadcrumb {
+    background-color: #ffffff;
+    padding-left: 0;
+
+}
+
+.main-profile {
+    background-color: #F4F9FC;
+}
+
+.main-article {
+    border: 1px solid #DFE6EB;
+    border-radius: 5px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.main-aside {
+    border: 1px solid #DFE6EB;
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding-left: 20px;
+}
+
+
+
+
+
